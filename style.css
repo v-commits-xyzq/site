@@ -98,6 +98,7 @@ input {
 
 /* PHOTO */
 .photo {
+  display: block;
   width: 260px;
   border-radius: 20px;
   margin: 25px auto;
@@ -113,3 +114,4 @@ input {
   border-radius: 15px;
   line-height: 1.6;
 }
+
